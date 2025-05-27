@@ -1,2 +1,2 @@
-package main;import("github.com/nikdissv-forever/bf";"os")
+package main;import("github.com/NIKDISSV-Forever/bf";"os")
 func main(){if f,e:=os.ReadFile(os.Args[1]);e==nil{B.R(f)}}

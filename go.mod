@@ -1,3 +1,3 @@
-module github.com/nikdissv-forever/bf
+module github.com/NIKDISSV-Forever/bf
 
 go 1.20

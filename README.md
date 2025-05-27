@@ -1,11 +1,11 @@
-# gobf
+# BF (BrainFuck)
 Shortest Golang Brainfuck Interpreter implementation.
 # Usage
 ```go
 package main
 
 import "os"
-import "github.com/nikdissv-forever/gobf"
+import "github.com/nikdissv-forever/bf"
 
 func main() {
 	if f, e := os.ReadFile(os.Args[1]); e == nil {
